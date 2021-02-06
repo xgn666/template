@@ -20,5 +20,18 @@
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.12"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgn666/template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xgn666/template/issues"
+  },
+  "homepage": "https://github.com/xgn666/template#readme"
 }
